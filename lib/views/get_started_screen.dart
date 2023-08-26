@@ -73,7 +73,7 @@ class _GetStartedScreenState extends State<GetStartedScreen> {
               Container(width: 10,),
               Image.asset("assets/images/scan.png", width: 24, height: 24,),
               Container(width: 10,),
-              const Text("Connect Ledger", style: TextStyle(
+              const Text("Connect Trezor", style: TextStyle(
                 color: Colors.black,
                 fontFamily: 'inter-medium',
                 fontSize: 16,
