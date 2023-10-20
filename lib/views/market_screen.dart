@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:candlesticks/candlesticks.dart';
 import 'package:flutter/material.dart';
 import 'package:untitled2/adapters/market_adapter.dart';

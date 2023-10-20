@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:untitled2/views/get_started_screen.dart';
-import 'package:untitled2/views/market_screen.dart';
 import 'package:untitled2/views/splash_screen.dart';
 
 void main() async {

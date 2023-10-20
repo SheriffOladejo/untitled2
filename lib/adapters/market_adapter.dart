@@ -66,7 +66,7 @@ class _MarketAdapterState extends State<MarketAdapter> {
               Image.network(widget.data.image, width: 24, height: 24,),
               Container(width: 5,),
               Text(widget.data.name, style: TextStyle(
-                color: Colors.black,
+                color: Colors.white,
                 fontSize: 12,
                 fontWeight: FontWeight.w500,
                 fontFamily: 'inter-medium',
@@ -79,7 +79,7 @@ class _MarketAdapterState extends State<MarketAdapter> {
                   Text(
                     "\$""${widget.data.price}",
                     style: TextStyle(
-                      color: Colors.black,
+                      color: Colors.white,
                       fontSize: 12,
                       fontFamily: 'inter-medium',
                       fontWeight: FontWeight.w500,
